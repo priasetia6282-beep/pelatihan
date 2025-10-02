@@ -7,7 +7,7 @@ body {
 
 .kartu-profil {
      width: 300px;
-     margin: 50px;
+     margin: 50px auto;
      padding: 20px;
      background-color: white;
      border-radius: 15px;
@@ -18,4 +18,9 @@ body {
 .kartu-profil img {
     width: 150px;
     border-radius: 50%;
+}
+
+#sapa button {
+    background-color: palevioletred;
+    color: white;
 }
